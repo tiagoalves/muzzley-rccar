@@ -1,6 +1,6 @@
 # Muzzley RC Car demo
 
-This repository demonstrates how [Muzzley](www.muzzley.com) can be used to remotelly control a Raspberry Pi-powered remote-controlled car with your Android or iOS smartphone.
+This repository demonstrates how [Muzzley](http://www.muzzley.com) can be used to remotelly control a Raspberry Pi-powered remote-controlled car with your Android or iOS smartphone.
 
 This project uses Node.js.
 
