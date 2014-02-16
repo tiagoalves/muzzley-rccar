@@ -1,0 +1,12 @@
+{
+  "name": "muzzley-sdk-js",
+  "version": "0.0.1",
+  "private": true,
+  "main": "lib/main.js",
+  "dependencies": {
+    "muzzley-client": "~0.3.5",
+    "speaker": "0.0.10",
+    "rpi-gpio": "0.0.4",
+    "lame": "~1.0.3"
+  }
+}
